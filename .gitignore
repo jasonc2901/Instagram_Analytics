@@ -1,0 +1,4 @@
+backend/env/
+backend/.bash_profile
+backend/scrape/user_data
+backend/scrape/test.py
