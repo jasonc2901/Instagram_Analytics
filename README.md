@@ -31,7 +31,7 @@ I then built out the frontend Application using the Flutter/Dart programming lan
 - navigate to the frontend/ directory
 - run the app
     - flutter run
-    - ![alt text](https://github.com/jasonc2901/Instagram_Analytics/blob/master/screenshots/dashboard.png?raw=true)
+    - <img src="https://github.com/jasonc2901/Instagram_Analytics/blob/master/screenshots/dashboard.png?raw=true" width="300" height="450">
 
 # Enjoy learning more about your Instagram followers!
 
