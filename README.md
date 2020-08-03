@@ -28,7 +28,7 @@ I then built out the frontend Application using the Flutter/Dart programming lan
 # Launch the app
 
 - Connect your IOS/Android device to your computer (or run an emulator)
-- navigate to the frontend/ directory
+- navigate to the frontend/instagram_analytics/ directory
 - run the app
     - flutter run
     - <img src="https://github.com/jasonc2901/Instagram_Analytics/blob/master/screenshots/dashboard.png?raw=true" width="300" height="450">
